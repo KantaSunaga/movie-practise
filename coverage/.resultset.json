@@ -1,0 +1,43 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/kanta/movie_practise/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/kanta/movie_practise/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/kanta/movie_practise/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/kanta/movie_practise/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/kanta/movie_practise/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/kanta/movie_practise/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/kanta/movie_practise/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1487031264
+  }
+}
